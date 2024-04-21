@@ -27,4 +27,4 @@ function playRound(playerSelection, computerSelection) {
         }
 }
 
-console.log(playRound(playerSelection, getComputerChoice))
+console.log(playRound(playerSelection, getComputerChoice));
