@@ -14,4 +14,4 @@ code restructuring, debugging, and code cleanup.
 
 - Add a mechanism to allow the program to "sleep" or wait in-between rounds for the player to see the progress of the game.
 
-- Move the game from the console to a an interactive webpage.
+- Move the game from the console to an interactive webpage.
