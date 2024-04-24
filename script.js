@@ -14,7 +14,7 @@ function playGame(i) {
     let playerScore = 0;
     let computerScore = 0;
     let gameWinner = "";
-    // This loop establishes that the game will run for six rounds.
+    // This loop establishes that the game will run for five rounds.
     for (let i = 1; i < 6; i++) {
         const playerSelection = prompt("Rock, Paper, or Scissors?").toLowerCase();
         const computerSelection = getComputerChoice();

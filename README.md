@@ -1,14 +1,14 @@
 # Rock, Paper, Scissors... Shoot!
 
 A short game of rock, paper, scissors played in the browser console (will be moved to an on-page experience)
-via JavaScript. Part of The Odin Project curriculum meant to introduce Javascript.
+via JavaScript. Part of The Odin Project curriculum meant to introduce JavaScript.
 
 ## Goal & Lessons Learned
 
-This project was primarily done to teach me the foundations of JavaScript. Through it I learned how to work with functions to lessen repetition in my code. I learned how to work a JavaScript "for" loop that iterates on itself and keeps track of data values. I learned the importance of appended string and instructing the computer to select an array item at random.
+This project was primarily done to teach me the foundations of JavaScript. Through it I learned how to work with functions to lessen repetition in my code. I learned how to work a JavaScript "for" loop that iterates on itself and keeps track of data values. I learned the importance of appended strings and instructing the computer to select an array item at random.
 
 Most importantly, I learned how to see a project from start to finish with planning, pseudo-code,
-code restructuring, debugging, and code cleanup.
+code restructuring, debugging, code cleanup, and problem solving.
 
 ## Plans for Improvement
 
